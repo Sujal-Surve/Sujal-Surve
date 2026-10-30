@@ -1,56 +1,25 @@
-Hi there, I'm Sujal Surve! 👋
-💻 Aspiring Web Developer | Student | Tech Enthusiast
+Hi, I'm Sujal Surve 👋
 
-Welcome to my GitHub profile! 🚀
+I'm a student learning Web Development and interested in building websites.
 
-I'm Sujal Surve, currently learning Web Development and exploring the world of programming. I enjoy learning new technologies, building projects, solving problems, and improving my coding skills every day.
-
-My goal is to become a skilled Full Stack Web Developer and build creative, useful, and user-friendly websites.
-
-👨‍💻 About Me
+About Me
 🌱 Currently learning Web Development.
-💻 Exploring Frontend and Backend Development.
-🚀 Interested in building real-world projects.
-📚 Always learning and improving my skills.
-🎯 Working towards becoming a Full Stack Developer.
-🤝 Open to learning, collaboration, and new opportunities.
-🛠️ Technologies I'm Learning
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" />
-</p>
-
-📊 GitHub Stats
-
-<p>
-<img src="https://github-readme-stats.vercel.app/api?username=Sujal-Surve&show_icons=true&theme=tokyonight" alt="Sujal's GitHub Stats" />
-</p>
-
-<p>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sujal-Surve&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-📈 Most Used Languages
-
-<p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sujal-Surve&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
-🎯 My Goals
-Master HTML, CSS, and JavaScript.
+💻 Interested in Frontend Development.
+📚 Learning new technologies and improving my skills.
+🎯 My goal is to become a Full Stack Developer.
+Skills I'm Learning
+HTML
+CSS
+JavaScript
+Git & GitHub
+My Goals
 Learn React.js.
+Improve my coding skills.
+Build real-world projects.
 Learn Backend Development.
-Build responsive websites.
-Create real-world projects.
-Become a Full Stack Web Developer.
-🌐 Connect With Me
-💻 GitHub: @Sujal-Surve
-💡 Favorite Quote
+Connect With Me
+GitHub: Sujal-Surve
 
-"Great things take time. Keep learning, keep building, and never stop growing!"
+Thanks for visiting my profile! 😊
 
-⭐ Thanks for visiting my profile!
-
-If you like my work, feel free to explore my repositories and follow my coding journey.
-
-Happy Coding! 💻🔥
+Happy Coding! 💻
